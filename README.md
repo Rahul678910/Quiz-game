@@ -21,9 +21,20 @@
 **QuizMaster** is a standalone desktop trivia application designed to provide an engaging learning and gaming experience. It features a modern dark-mode aesthetic, countdown timer pressure, dynamic score calculation, instant answer feedback with educational trivia facts, and a comprehensive end-game answer review screen.
 
 ```
-git add .
-git commit -m "<img width="749" height="609" alt="Quiz game/Screenshot 2026-10-23 111634.png" />"
-git push
++-------------------------------------------------------------+
+|  Question 3 of 10   [ Science ]       Score: 20   ⏱ 12s    |
+|  ---------------------------------------------------------  |
+|                                                             |
+|  What is the chemical symbol for Gold?                      |
+|                                                             |
+|  [ A. Ag                                                 ]  |
+|  [ B. Au  <-- Clicked (Turns Green) ✓ Correct! (+10 pts) ]  |
+|  [ C. Fe                                                 ]  |
+|  [ D. Gd                                                 ]  |
+|                                                             |
+|  💡 Did you know? 'Au' comes from Latin 'aurum' (dawn)      |
+|                                         [ Next Question ➔ ] |
++-------------------------------------------------------------+
 ```
 
 ---
