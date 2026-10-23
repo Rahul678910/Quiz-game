@@ -21,7 +21,9 @@
 **QuizMaster** is a standalone desktop trivia application designed to provide an engaging learning and gaming experience. It features a modern dark-mode aesthetic, countdown timer pressure, dynamic score calculation, instant answer feedback with educational trivia facts, and a comprehensive end-game answer review screen.
 
 ```
-![Quiz Question Screen](Screenshot%202026-10-23%20111634.png)
+git add .
+git commit -m "Add screenshots"
+git push
 ```
 
 ---
