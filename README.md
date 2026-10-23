@@ -39,6 +39,18 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+| Quiz Question Screen | Results Screen |
+|:---:|:---:|
+| <img src="screenshots/quiz-question.png" alt="QuizMaster question screen" width="400"> | <img src="screenshots/quiz-results.png" alt="QuizMaster results screen" width="400"> |
+
+</div>
+
+---
+
 ## ✨ Features
 
 - **🎨 Modern Dark UI:** Card-based interface with custom-styled progress bar and high-contrast typography.
@@ -64,7 +76,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rahul678910/Quiz-game.git
+git clone https://github.com/<your-username>/quiz-game.git
 cd quiz-game
 ```
 
