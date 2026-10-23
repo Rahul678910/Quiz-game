@@ -45,7 +45,7 @@
 
 | Quiz Question Screen | Results Screen |
 |:---:|:---:|
-| <img src="Screenshot 2026-10-23 111634.png" alt="QuizMaster question screen" width="400"> | <img src="screenshots/quiz-results.png" alt="QuizMaster results screen" width="400"> |
+| <img src="Screenshot 2026-10-23 111634.png" alt="QuizMaster question screen" width="400"> | <img src="Screenshot 2026-10-23 111807.png" alt="QuizMaster results screen" width="400"> |
 
 </div>
 
