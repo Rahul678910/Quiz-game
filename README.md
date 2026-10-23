@@ -76,7 +76,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/quiz-game.git
+git clone https://github.com/Rahul678910/Quiz-game.git
 cd quiz-game
 ```
 
