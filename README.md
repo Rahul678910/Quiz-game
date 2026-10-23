@@ -22,7 +22,7 @@
 
 ```
 git add .
-git commit -m "<img width="749" height="609" alt="Screenshot 2026-10-23 111634" src="https://github.com/user-attachments/assets/25d2f430-df11-4e99-9716-f4933d1aed9b" />"
+git commit -m "<img width="749" height="609" alt="Quiz game/Screenshot 2026-10-23 111634.png" />"
 git push
 ```
 
